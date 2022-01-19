@@ -7,4 +7,4 @@ Website Template for Project 3
 [Terpconnect](https://terpconnect.umd.edu/~mikeko/)
 
 
-Changed the header to pink, footer to blue
+Changed the header to pink/light blue, footer to blue

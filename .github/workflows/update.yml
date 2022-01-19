@@ -19,8 +19,8 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             ls
-            cd ../pub/
             cd michaelko92.github.io
             git pull
+
 
 

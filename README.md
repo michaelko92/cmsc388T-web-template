@@ -2,6 +2,9 @@
 
 Website Template for Project 3
 
+[GitHub Pages](https://michaelko92.github.io)
+[Terpconnect](https://terpconnect.umd.edu/~mikeko/)
+
 
 Changed the colors of the page.
 

@@ -28,7 +28,7 @@ html, body {
 }
 
 .nav a:hover {
-    background-color: rgba(128, 14, 204, 0.3)
+    background-color: rgba(8, 1, 12, 0.3)
 }
 
 .main-nav {
@@ -114,7 +114,7 @@ html, body {
 
 .main-footer {
     background-color: (11, 74, 35);
-    color: white;
+    color: blue;
     position: fixed;
     bottom: 0;
     width: 100%;

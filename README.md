@@ -7,8 +7,4 @@ Website Template for Project 3
 [Terpconnect](https://terpconnect.umd.edu/~mikeko/)
 
 
-Changed the colors of the page.
-
-Changed the header to Green, footer to blue
-
-The colors of the github and linked in are in white, so you need to hover over them to see.
+Changed the header to pink, footer to blue

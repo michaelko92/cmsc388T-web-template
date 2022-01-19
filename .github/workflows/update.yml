@@ -18,7 +18,8 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd michaelko92.github.io
+            cd Documents/School/test/P3
+            cd cmsc388T-web-template
             git pull
             cp ./* ../../pub/
 

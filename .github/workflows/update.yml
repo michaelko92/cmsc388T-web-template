@@ -20,6 +20,6 @@ jobs:
           script: |
             cd michaelko92.github.io
             git pull
-            cp ./* ../../pub/
+            yes | cp -rf ./* ../../pub/
 
 

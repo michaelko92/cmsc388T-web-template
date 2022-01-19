@@ -2,7 +2,7 @@
 
 name: Clone workflow
 
-on: 
+on:
   workflow_dispatch:
 jobs:
   job_one:
@@ -17,6 +17,8 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
+            cd ../
+            cd pub
             git clone https://github.com/michaelko92/michaelko92.github.io.git
-          
+
 

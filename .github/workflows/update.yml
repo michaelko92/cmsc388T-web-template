@@ -18,7 +18,8 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd terpwebsite
+            cd michaelko92.github.io
             git pull
+            cp ./* ../../pub/
 
 

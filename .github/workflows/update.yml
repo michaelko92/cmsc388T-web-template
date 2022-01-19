@@ -18,9 +18,8 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            ls
             cd michaelko92.github.io
             git pull
-
+            cp ./* ../../pub/
 
 

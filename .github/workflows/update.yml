@@ -3,7 +3,7 @@
 name: Update workflow
 
 on:
-  push
+  push:
     branches: [main]
 jobs:
   job_one:

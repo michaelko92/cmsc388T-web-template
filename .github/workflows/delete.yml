@@ -20,6 +20,6 @@ jobs:
             cd ../
             cd pub
             unalias rm
-            rm -rf terpwebsite
+            rm -rf michaelko92.github.io
 
 

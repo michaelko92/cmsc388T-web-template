@@ -2,9 +2,9 @@
 
 Website Template for Project 3
 
+[GitHub Pages](https://michaelko92.github.io)
 
-Changed the colors of the page.
+[Terpconnect](https://terpconnect.umd.edu/~mikeko/michaelko92.github.io/)
 
-Changed the header to Green, footer to blue
 
-The colors of the github and linked in are in white, so you need to hover over them to see.
+Changed the header to pink/light blue, footer to blue
